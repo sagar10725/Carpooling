@@ -1,0 +1,29 @@
+/*
+body{
+    background-image: url("../images/bg.jpg");
+    repeat scroll left top
+  
+}
+*/
+
+.favoriteIcon {
+    width: 20px;
+    height: 20px;
+}
+
+.closeIcon {
+    float: right;
+    width: 20px;
+    height: 20px;
+    margin: 3px;
+    float: right;
+}
+
+.commentLabel {
+    margin: 5px;
+}
+
+.add-comment {
+    position: relative;
+    top: 5px;
+}
